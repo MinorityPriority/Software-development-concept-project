@@ -1,5 +1,5 @@
-let text = " "
-let pattern = " "
+text = " "
+pattern = " "
 for index in range(len(text)):
   match = 0
   for char in range(len(pattern)):
